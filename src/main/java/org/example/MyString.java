@@ -18,6 +18,7 @@ public class MyString {
 
         System.out.println("Comparaison sans utilisation interne "+b1);
 
+       System.out.println("Le premier est :"+new XInstance().getNbrInstance()+" \tLe deuxiem est :"+new XInstance().getNbrInstance());
 
     }
 
